@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Finish Python project",
+        "description": "Due tomorrow!",
+        "start_date": "2025-11-03",
+        "end_date": null,
+        "done": true,
+        "priority": "high",
+        "canceled": false
+    },
+    {
+        "title": "Learn Python",
+        "description": "OOP study",
+        "start_date": "2025-11-03",
+        "end_date": null,
+        "done": true,
+        "priority": "high",
+        "canceled": false
+    },
+    {
+        "title": "Buy milk",
+        "description": "from supermarket",
+        "start_date": "2025-11-03",
+        "end_date": null,
+        "done": false,
+        "priority": "low",
+        "canceled": false
+    }
+]
